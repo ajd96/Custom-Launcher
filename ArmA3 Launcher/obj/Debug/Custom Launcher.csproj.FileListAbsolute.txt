@@ -1,0 +1,12 @@
+D:\Backup\My Documentation\Servers & Coding\Programming\C# language\Projects\Launchers\XeXGaming Launcher\ArmA3 Launcher\obj\Debug\Custom_Launcher.MainForm.resources
+D:\Backup\My Documentation\Servers & Coding\Programming\C# language\Projects\Launchers\XeXGaming Launcher\ArmA3 Launcher\obj\Debug\ArmA3_Launcher.ModDownloadForm.resources
+D:\Backup\My Documentation\Servers & Coding\Programming\C# language\Projects\Launchers\XeXGaming Launcher\ArmA3 Launcher\obj\Debug\Custom_Launcher.Properties.Resources.resources
+D:\Backup\My Documentation\Servers & Coding\Programming\C# language\Projects\Launchers\XeXGaming Launcher\ArmA3 Launcher\obj\Debug\Custom Launcher.csproj.GenerateResource.Cache
+D:\Backup\My Documentation\Servers & Coding\Programming\C# language\Projects\Launchers\XeXGaming Launcher\ArmA3 Launcher\obj\Debug\Custom Launcher.exe
+D:\Backup\My Documentation\Servers & Coding\Programming\C# language\Projects\Launchers\XeXGaming Launcher\ArmA3 Launcher\obj\Debug\Custom Launcher.pdb
+D:\Backup\My Documentation\Servers & Coding\Programming\C# language\Projects\Launchers\XeXGaming Launcher\ArmA3 Launcher\bin\Debug\Custom Launcher.exe.manifest
+D:\Backup\My Documentation\Servers & Coding\Programming\C# language\Projects\Launchers\XeXGaming Launcher\ArmA3 Launcher\bin\Debug\Custom Launcher.application
+D:\Backup\My Documentation\Servers & Coding\Programming\C# language\Projects\Launchers\XeXGaming Launcher\ArmA3 Launcher\bin\Debug\Custom Launcher.exe
+D:\Backup\My Documentation\Servers & Coding\Programming\C# language\Projects\Launchers\XeXGaming Launcher\ArmA3 Launcher\bin\Debug\Custom Launcher.pdb
+D:\Backup\My Documentation\Servers & Coding\Programming\C# language\Projects\Launchers\XeXGaming Launcher\ArmA3 Launcher\obj\Debug\Custom Launcher.exe.manifest
+D:\Backup\My Documentation\Servers & Coding\Programming\C# language\Projects\Launchers\XeXGaming Launcher\ArmA3 Launcher\obj\Debug\Custom Launcher.application
