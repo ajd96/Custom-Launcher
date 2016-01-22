@@ -38,7 +38,7 @@ Notes:
 
 If you have trouble installing or using our launcher, make sure you got the latest.net framework and also do check windows update as this does some of the process for you.
 
-Your free to use our code and launcher as long we get the credits for our work and we will not take any responibilty for any problems what occur with our code/launcher as this has been tested and works fine.
+Your free to use our code and launcher as long we get the credits for our work and we will not take any responsibility for any problems what occur with our code/launcher as this has been tested and works fine.
 
 /////////////////////////////////////////////////////////////
 
