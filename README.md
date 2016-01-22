@@ -1,7 +1,7 @@
 # Custom-Launcher
 Custom Launcher is a small application what will manage your Arma 3 &amp; Arma 2 mod launching and mod downloading all in one small application
 
-
+# Information
 /////////////////////////////////////////////////////////////
 Credits: DONT REMOVE CREDITS OF DEVELOPERS AND CLAIM ITS YOUR WORK AS WE WORKED HARD TO GET THIS WORKING
 
