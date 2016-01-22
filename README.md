@@ -3,6 +3,7 @@ Custom Launcher is a small application what will manage your Arma 3 &amp; Arma 2
 
 # Information
 /////////////////////////////////////////////////////////////
+
 Credits: DONT REMOVE CREDITS OF DEVELOPERS AND CLAIM ITS YOUR WORK AS WE WORKED HARD TO GET THIS WORKING
 
 Developer: Xynous - Also known as Evention and other names.
