@@ -40,8 +40,6 @@ If you have trouble installing or using our launcher, make sure you got the late
 
 Your free to use our code and launcher as long we get the credits for our work and we will not take any responsibility for any problems what occur with our code/launcher as this has been tested and works fine.
 
-Also you may have to install the installer within visual studio, download the "Visual Studio Isntaller Projects" by searching.
-
 /////////////////////////////////////////////////////////////
 
 /////////////////////////////////////////////////////////////
