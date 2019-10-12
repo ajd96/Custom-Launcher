@@ -23,9 +23,6 @@ Custom Launcher is a small application what will manage your Arma 3 &amp; Arma 2
 The project development status is complete
 
 # Author/Credits
-Ashleigh Day - (Xynous)
+Mr. Ashleigh Day
 
 VJ - Developer 
-
-Any usage of the project idea or source code, please give the correct credits and references.
-
